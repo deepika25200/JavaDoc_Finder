@@ -1,0 +1,56 @@
+Class Demo1 contains JavaDoc comment:
+/**
+ * Demo1 class to check the annotations
+ *
+ * @ClassDocumentation "This is a class A"
+ */
+
+
+Method Demo1M1 in class Demo1 has JavaDoc comment:
+/**
+            * This is a method Demo1M1 inside class Demo1
+     *
+             * @MethodDocumentation "Demo1M1 inside class Demo1"
+            */
+
+
+Method Demo1M2 in class Demo1 has JavaDoc comment:
+/**
+     * This is a method Demo1M2 inside class Demo1
+     *
+     * @MethodDocumentation "Demo1M2 inside class Demo1"
+     */
+
+
+Method Demo1M3 in class Demo1 has JavaDoc comment:
+/**
+     * This is a method Demo1M3 inside class Demo1
+     *
+     * @MethodDocumentation "Demo1M3 inside class Demo1"
+     */
+
+
+Method Demo1M1 in class Demo2 has JavaDoc comment:
+/**
+     * This is a method Demo2M1 inside class Demo2
+     *
+     *  "Demo1M1 inside class Demo2"
+     */
+
+
+Method Demo1M2 in class Demo2 has JavaDoc comment:
+/**
+     * This is a method Demo2M2 inside class Demo2
+     *
+     * @MethodDocumentation "Demo1M2 inside class Demo2"
+     */
+
+
+Method Demo1M3 in class Demo2 has JavaDoc comment:
+/**
+     * This is a method Demo2M3 inside class Demo2
+     *
+     * @MethodDocumentation "Demo2M3 inside class Demo2"
+     */
+
+
